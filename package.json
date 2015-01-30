@@ -1,11 +1,11 @@
 {
   "name": "generator-show",
   "author": {
-    "name": "shelwon"
+    "name": "mcattx"
   },
-  "email": "shelwon.miao@corp.globalmarket.com",
+  "email": "mcattx@gmail.com",
   "description": "a module to generate feifen activity",
-  "version": "0.2.2",
+  "version": "0.0.1",
   "keywords": [
     "yeoman-generator"
   ],
@@ -14,25 +14,5 @@
   },
   "_id": "generator-show@0.2.2",
   "_from": "generator-show",
-  "dist": {
-    "shasum": "ee5913a10c818fb0b4eaa2e9f4af1e8cc76f70d3",
-    "tarball": "http://gitlab.feifei.com:4873/generator-show/-/generator-show-0.2.2.tgz",
-    "__sinopia_orig_tarball": "http://gitlab.feifei.com:4873/generator-show/-/generator-show-0.2.2.tgz"
-  },
-  "_npmVersion": "1.4.3",
-  "_npmUser": {
-    "name": "publisher",
-    "email": "123@mail.com"
-  },
-  "maintainers": [
-    {
-      "name": "publisher",
-      "email": "123@mail.com"
-    }
-  ],
-  "_shasum": "997043b07d168ff096aab4036917ff5d32557f79",
-  "_resolved": "file:generator-show",
-  "gitHead": "0c25de2d9d7d2f1118fe9f58ca6e7fa91f4c1287",
-  "readme": "ERROR: No README data found!",
   "scripts": {}
 }
